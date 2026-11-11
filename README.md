@@ -6,6 +6,10 @@ Thanks to the [Decentralized Web Summit](https://www.decentralizedweb.net/) for 
 ***Please do not submit PR with pseudo currencies, blockchain, cryptocoins, NFTs, DAOs and finance related projects.***
 
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork preserves the <a href="https://github.com/gdamdam/awesome-decentralized-web">upstream project</a>’s catalogue of decentralised communication, data and web technologies, together with practical applications. It helps developers find reusable protocols and implementations instead of designing every networking layer independently. Its practical value is a clearer starting point for interoperable systems; distributed deployment does not by itself demonstrate lower storage, bandwidth or energy consumption.</sub>
+<!-- impact-note:end -->
+
 ## Protocols and Technologies
 *Tools for building a decentralized web.*
 
